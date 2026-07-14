@@ -15,4 +15,4 @@ Sou estudante de Sistemas de Informação em Goiânia e um desenvolvedor apaixon
 
 📫 **Como me encontrar:**
 *   [LinkedIn](https://www.linkedin.com/in/felipe-miguel-414630247)
-*   **E-mail:** [Felipemiguelpma@gmail.com]
+*   **E-mail:** [Felipemiguelpma@gmail.com](Felipemiguelpma@gmail.com)
