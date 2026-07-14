@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá! 👋 Sou o Felipe Miguel
 
-<!--
-**MrEpilef/MrEpilef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação em Goiânia e um desenvolvedor apaixonado por criar soluções eficientes, desde a automação de processos até o desenvolvimento FullStack. Gosto de resolver problemas reais de negócios e infraestrutura através de código.
 
-Here are some ideas to get you started:
+💻 **Principais Tecnologias e Ferramentas:**
+*   **Backend & Automação:** Java, Spring Boot, Python
+*   **Mobile:** Flutter, Dart
+*   **Bancos de Dados:** MySQL, Oracle, Firebird
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **No que estou trabalhando atualmente:**
+*   Aprimorando minhas habilidades em arquitetura backend.
+*   Desenvolvendo o *Evolution Man*, um aplicativo gamificado para gestão de tarefas com elementos de RPG.
+*   Desenvolvendo o Softtec Gestor, um software para facilitar o fechamento financeiro e de treinamento de implantadores 
+*   Criando integrações e automações de atendimento (WhatsApp/APIs).
+
+📫 **Como me encontrar:**
+*   [LinkedIn](https://www.linkedin.com/in/felipe-miguel-414630247)
+*   **E-mail:** [Felipemiguelpma@gmail.com]
